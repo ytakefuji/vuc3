@@ -15,4 +15,4 @@ $ pip install vuc3
 # How to run vuc3
 $ vuc3 all_ages Pfizer death
 
-<img src='' width= height= >
+<img src='https://github.com/ytakefuji/vuc3/raw/main/death_Pfizer_all_ages.png' width=534 height=470 >
