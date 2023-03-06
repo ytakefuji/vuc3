@@ -1,5 +1,5 @@
 # vuc3
-https://codeocean.com/capsule/6096647/tree
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/6096647/tree)
 
 This is under review.
 
